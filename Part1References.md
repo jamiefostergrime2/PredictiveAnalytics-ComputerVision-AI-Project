@@ -1,1 +1,3 @@
 [1] B. Tuychiev, "Understanding Skewness and Kurtosis And How to Plot Them" DataCamp, December 2023. [Online]. Available: https://www.datacamp.com/tutorial/understanding-skewness-and-kurtosis.
+[2] V. González-Zelaya and V. Ojha, "Lecture 3: Anomaly Detection," CSC3831 - Predictive Analytics, Computer Vision & AI, Newcastle University, Oct. 2025.
+[1] Aakash R., "Outlier Detection and Treatment: Z-score, IQR, and Robust Methods," Medium, Oct. 30, 2024. [Online]. Available: https://medium.com/@aakash013/outlier-detection-treatment-z-score-iqr-and-robust-methods-398c99450ff3.
